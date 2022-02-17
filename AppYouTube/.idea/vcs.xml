@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10from100_tasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DjangoProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New project/Sopping_list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tasks/CryptoApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tasks/MyFirstGitProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tasks/ShoeStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tasks/ShoppingList(clone)" vcs="Git" />
+  </component>
+</project>
