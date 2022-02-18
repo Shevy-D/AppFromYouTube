@@ -35,12 +35,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val intentToAnotherScreen = Intent(this, MoviesActivity::class.java)
-        startActivity(intentToAnotherScreen)
-
         Log.d("testlog", "in onCreate")
 
-        /*database = Firebase.database.reference  //инициализация базы данных
+        database = Firebase.database.reference  //инициализация базы данных
 
         val providers = arrayListOf(
             AuthUI.IdpConfig.EmailBuilder().build())  //список регистрации, кt мы используем
@@ -50,7 +47,7 @@ class MainActivity : AppCompatActivity() {
             .createSignInIntentBuilder()
             .setAvailableProviders(providers)
             .build()  // создали интент для экрана firebase auth
-        signInLauncher.launch(signInIntent)*/
+        signInLauncher.launch(signInIntent)
 
     }
 

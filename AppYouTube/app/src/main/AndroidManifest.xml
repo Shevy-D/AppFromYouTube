@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppYouTube">
         <activity
+            android:name=".MovieDetailsActivity"
+            android:exported="false" />
+        <activity
             android:name=".MoviesActivity"
             android:exported="false"
             android:label="@string/title_activity_registration"
